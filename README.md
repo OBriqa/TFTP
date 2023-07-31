@@ -5,13 +5,13 @@ Pràctica de l'assignatura de Xarxes de Computadors on implmentem de forma senzi
 
 Operacions disponibles:
 
-  -> PUT (WRQ)
-  -> GET (RRQ)
+  - PUT (WRQ)
+  - GET (RRQ)
 
 Codis d'error implemnetats.
 
-  -> Error nº 1 : "File not found."
-  -> Error nº 3 : "Disk full or allocation exceeded."
-  -> Error nº 6 : "File already exists."
+  - Error nº 1 : "File not found."
+  - Error nº 3 : "Disk full or allocation exceeded."
+  - Error nº 6 : "File already exists."
 
 Pràctica realitzada per [Joaquim Hervás](https://github.com/Hospuntake) i Omar Briqa
