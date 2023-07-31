@@ -1,5 +1,5 @@
 # TFTP
-Implementació senzilla del protocol TFTP sobre UPD.
+Implementació senzilla del protocol TFTP sobre UDP.
 
 Pràctica de l'assignatura de Xarxes de Computadors on implmentem de forma senzilla el protocol TFTP sobre UDP.
 
